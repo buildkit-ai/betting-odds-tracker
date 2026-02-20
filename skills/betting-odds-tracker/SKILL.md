@@ -6,8 +6,8 @@ description: >-
   correlation.
   Triggers: betting odds, line movement, odds tracker, sports betting, spread changes,
   moneyline, over under, odds comparison, sharp money, live odds, point spread, value bets.
-author: market-signal-dev
-repository: https://github.com/market-signal-dev/betting-odds-tracker
+author: buildkit-ai
+repository: https://github.com/buildkit-ai/betting-odds-tracker
 license: MIT
 ---
 
