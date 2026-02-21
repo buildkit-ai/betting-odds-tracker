@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
 dependencies = ["requests>=2.28"]
-keywords = ["sports-betting", "odds", "sportsbook", "shipp", "real-time"]
+keywords = ["sports-betting", "odds", "sportsbook", "real-time"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",

@@ -30,7 +30,6 @@ class ShippClient:
             raise ValueError(
                 "SHIPP_API_KEY is required. Set it as an environment variable "
                 "or pass it to ShippClient(api_key='...'). "
-                "Get a key at https://platform.shipp.ai"
             )
         self.session = requests.Session()
         self.session.headers.update({

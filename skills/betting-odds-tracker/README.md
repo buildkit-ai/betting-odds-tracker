@@ -61,8 +61,6 @@ For live game score context:
 export SHIPP_API_KEY="your-api-key-here"
 ```
 
-Get one at [platform.shipp.ai](https://platform.shipp.ai).
-
 ### 3. Install Dependencies
 
 ```bash
@@ -210,7 +208,3 @@ Availability varies by sport and region.
 ## License
 
 MIT
-
----
-
-<sub>Powered by [Shipp.ai](https://shipp.ai) real-time data</sub>
